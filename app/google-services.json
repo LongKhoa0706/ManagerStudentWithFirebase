@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "839967284940",
+    "firebase_url": "https://fir-demo-a6167.firebaseio.com",
+    "project_id": "fir-demo-a6167",
+    "storage_bucket": "fir-demo-a6167.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839967284940:android:1b7829f2ac180d28",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839967284940-j2tr9ah0h0vptfod16atpcvsa5c5ouo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcIf8sxrTRatrcudA5jVbM0KP1NFUf4eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839967284940-j2tr9ah0h0vptfod16atpcvsa5c5ouo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839967284940:android:123c5a28e8fb3bc8bc2c69",
+        "android_client_info": {
+          "package_name": "com.example.managerstudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839967284940-j2tr9ah0h0vptfod16atpcvsa5c5ouo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcIf8sxrTRatrcudA5jVbM0KP1NFUf4eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839967284940-j2tr9ah0h0vptfod16atpcvsa5c5ouo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
